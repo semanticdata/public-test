@@ -16,4 +16,4 @@
 
 #### Footer GIF
 
-<img alt="webp animation" src="https://raw.githubusercontent.com/semanticdata/public-test/main/GIF/foot.gif?raw=true" />
+<img alt="footer gif" src="https://raw.githubusercontent.com/semanticdata/public-test/main/GIF/foot.gif?raw=true" />
