@@ -1,6 +1,8 @@
-# public-test
+# Public Testing Repo
 
-## Picture Testing
+Yes, it means there is a private-test repository.
+
+## Image Hosting Tests
 
 #### JPEG
 
