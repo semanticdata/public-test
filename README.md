@@ -10,7 +10,7 @@ Yes, it means there is a private-test repository.
 
 #### JPEG
 
-<img alt="adhd-hyperfocus" src="https://github.com/semanticdata/public-test/blob/main/JPEG/adhd-hyperfocus.jpg?raw=true" width="350" />
+<img alt="adhd-hyperfocus" src="https://github.com/semanticdata/public-test/blob/main/JPG/adhd-hyperfocus.jpg?raw=true" width="350" />
 
 #### WEBP
 
